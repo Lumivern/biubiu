@@ -17,7 +17,7 @@
       "**未使用 MVU 的角色卡不再被注入多余的变量提示**；关闭预设后，预设变量也不再进入请求内容",
       "**日志占用到上限时自动清理旧记录**"
     ],
-    "apkUrl": "https://raw.githubusercontent.com/Lumivern/biu/main/BiuBiu-2.8.1.apk",
+    "apkUrl": "https://lumivern.github.io/biubiu/BiuBiu-2.8.1.apk",
     "apkSize": 31163282
   }
 }
